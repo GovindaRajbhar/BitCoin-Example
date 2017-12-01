@@ -1,5 +1,6 @@
 pragma solidity ^0.4.18;
 //http://remix.ethereum.org/#version=soljson-v0.4.18+commit.9cf6e910.js
+//http://remix.ethereum.org/#version=soljson-v0.4.18+commit.9cf6e910.js
 contract Courses {
     
     struct Instructor {
